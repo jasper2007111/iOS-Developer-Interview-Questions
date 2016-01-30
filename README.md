@@ -87,6 +87,8 @@
 ## 编程实现
 * 简述[「Snakes and Ladders」](http://en.wikipedia.org/wiki/Snakes_and_Ladders)的实现思路(这道题比较容易阐述清楚，且难度适中)
 
+## 网络
+* iOS开发中四种常见的 POST 提交数据方式，请详述。参考[四种常见的 POST 提交数据方式](https://imququ.com/post/four-ways-to-post-data-in-http.html)
 ## 参考
 
 * http://way2ios.com/development/ios-development-2/iphone-interview-question-answers/
